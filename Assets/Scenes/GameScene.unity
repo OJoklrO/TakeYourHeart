@@ -157,6 +157,7 @@ MonoBehaviour:
   Gurad2: {fileID: 3109090063992920018, guid: 8977dba4e0a80664998e62b0ec312d8c, type: 3}
   Gurad3: {fileID: 1777737290700984828, guid: 88c0d8110f4df1a47b3de107187e4844, type: 3}
   Gurad4: {fileID: 2363751995121725811, guid: 5fa2768825ba35c41901d63f5988112c, type: 3}
+  position: {fileID: 0}
 --- !u!4 &77680714
 Transform:
   m_ObjectHideFlags: 0
@@ -264,7 +265,7 @@ PrefabInstance:
     - target: {fileID: 1813983090613277606, guid: 529559d8198acb54880fb4e09b546e38,
         type: 3}
       propertyPath: m_Name
-      value: Heart
+      value: Heart_test
       objectReference: {fileID: 0}
     - target: {fileID: 1813983090613277600, guid: 529559d8198acb54880fb4e09b546e38,
         type: 3}

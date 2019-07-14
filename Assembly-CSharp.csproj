@@ -63,8 +63,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Find.cs" />
-    <Compile Include="Assets\Script\CreateScene.cs" />
-    <Compile Include="Assets\Script\Gurad\Gurad.cs" />
+    <Compile Include="Assets\Script\CreateScene_test.cs" />
+    <Compile Include="Assets\Script\Gurad\Gurad_test.cs" />
     <Compile Include="Assets\Script\Map\Position.cs" />
     <Compile Include="Assets\Script\Players\Player.cs" />
     <Compile Include="Assets\Script\Players\Player1.cs" />
